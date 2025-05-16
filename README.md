@@ -1,6 +1,8 @@
 # html-preprocessor
 Preprocesses HTML files to allow cross-site file-includes and similar conveniences without needing to touch javascript.
 
+NOTE: Do not expect this to be fast. Back up everything before using this, it _may_ munch your files.
+
 ## Usage
 Run this on a directory which contains `static_site.json`
 
