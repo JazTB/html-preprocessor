@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "name": "header.html",
+      "file": {
+        "file": "static_assets/header.html"
+      }
+    }
+  ],
+  "files": [
+    {
+      "file": "index.html",
+      "script": "index.js",
+      "style": "index.css"
+    },
+    {
+      "file": "nested_page/index.html",
+      "style": "index.css"
+    }
+  ]
+}
